@@ -1,9 +1,3 @@
-/* ══════════════════════════════════════════
-   script7.js — Lavender Timeline
-   Grouped hour blocks + magic confetti
-   Timeline: 12:00 AM → 11:30 PM
-   ══════════════════════════════════════════ */
-
 /* ── Build grouped hour blocks ── */
 (function buildTimeline() {
   const wrap = document.getElementById('blocks-wrap');
